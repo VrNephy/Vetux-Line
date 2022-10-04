@@ -1,10 +1,6 @@
 <img src="public/css/bc_logo.png" style="width: 20%;">
 
-Alexandre Alleaume
-
-Bryan Guillot 
-
-Lucas Pisano																							BRANCODEURS
+																				BRANCODEURS
 
 ​																														Rapport
 
